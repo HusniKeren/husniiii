@@ -1,0 +1,24 @@
+/* untuk Smartphone */
+@media all and (max-width:670px ) {
+    .casting{
+        width: 50%;
+    }
+    .castings {
+        position: relative;
+    }
+}
+
+/* untuk Tablet */
+@media all and (max-width:835px) {
+    .casting {
+        width: 50%;
+        padding-bottom: 50px;
+    }
+}
+
+/* untuk Dekstop */
+@media all and (max-width:1000px) {
+    .casting {
+        width: 100%;
+    }
+}
